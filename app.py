@@ -6,7 +6,7 @@ from scripts.weather import weather
 import blinkt
 
 def lights():
-    effect = weather
+    effect = rainbow
     effect()
 
 if __name__ == '__main__':
